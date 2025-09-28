@@ -1,0 +1,4 @@
+/home/xujiake/VScode_file/task3_ceres_project/ceres_solver/build/CMakeFiles/TrajectoryFitting.dir
+/home/xujiake/VScode_file/task3_ceres_project/ceres_solver/build/CMakeFiles/DataPoint.dir
+/home/xujiake/VScode_file/task3_ceres_project/ceres_solver/build/CMakeFiles/edit_cache.dir
+/home/xujiake/VScode_file/task3_ceres_project/ceres_solver/build/CMakeFiles/rebuild_cache.dir
